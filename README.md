@@ -64,9 +64,7 @@ The project successfully demonstrates how data analytics and machine learning ca
 This project showcases practical skills in data analysis, visualization, and machine learning using a real-world financial dataset. It is suitable for demonstrating analytics and ML fundamentals in interviews and portfolio reviews.
 
 
-## 📎 Author
+##  Author
 **K.Nikhil Student of AI&DS**
 
 
-
-Just tell me what you want 😊
